@@ -1,0 +1,2 @@
+import { Footer } from "@/components/sections/footer";import { SiteHeader } from "@/components/sections/site-header";
+export default function PrivacyPage(){return <><SiteHeader/><main className="container prose prose-invert py-12"><h1>Privacy Policy</h1><p>AdverX Store stores account, order, review, wishlist, and download data in Supabase. Payment details are processed by LemonSqueezy or Stripe.</p><p>Configure your production privacy policy to match your region and services.</p></main><Footer/></>}

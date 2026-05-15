@@ -1,0 +1,2 @@
+import { Footer } from "@/components/sections/footer";import { SiteHeader } from "@/components/sections/site-header";
+export default function TermsPage(){return <><SiteHeader/><main className="container prose prose-invert py-12"><h1>Terms of Service</h1><p>Use AdverX Store responsibly. Sellers are responsible for product rights, accurate descriptions, support, and refunds according to their policy.</p><p>Digital downloads may be licensed per purchase and protected by signed URLs.</p></main><Footer/></>}
